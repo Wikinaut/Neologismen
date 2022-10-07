@@ -4,6 +4,15 @@
 
 ## Autofahrerphobien und -manien
 
+Kurzversion:
+
+	1. Phobie von Autofahrern, keinen Parkplatz am Ziel zu finden“: Udechoriophobie
+	2. Phobie von Autofahrern, das gut geparkte Auto nicht zu benutzen, um den guten Parkplatz nicht zu verlieren: Choripoballophobie
+	3. Manie von Autofahrern, überholen zu müssen (#Überholzwang): Hyperballomanie
+	4. Manie des Autofahrers, hupen zu müssen: Salpingomani
+	5. Angst des Autofahrers vor leeren Batterien: Kenaggiophobie
+
+
 * https://twitter.com/Wikinaut/status/1275191252670169088
 * https://twitter.com/Wikinaut/status/1255873810206785536
 
@@ -54,12 +63,3 @@ Quellen:
 	* https://www.lexilogos.com/english/greek_ancient_dictionary.htm
 	* http://www.zeno.org/Pape-1880/
 	* http://perseus.uchicago.edu/Greek.html
-
-
-Kurzversion:
-
-	1. Phobie von Autofahrern, keinen Parkplatz am Ziel zu finden“: Udechoriophobie
-	2. Phobie von Autofahrern, das gut geparkte Auto nicht zu benutzen, um den guten Parkplatz nicht zu verlieren: Choripoballophobie
-	3. Manie von Autofahrern, überholen zu müssen (#Überholzwang): Hyperballomanie
-	4. Manie des Autofahrers, hupen zu müssen: Salpingomani
-	5. Angst des Autofahrers vor leeren Batterien: Kenaggiophobie
