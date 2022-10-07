@@ -62,4 +62,4 @@ Kurzversion:
 	2. Phobie von Autofahrern, das gut geparkte Auto nicht zu benutzen, um den guten Parkplatz nicht zu verlieren: Choripoballophobie
 	3. Manie von Autofahrern, überholen zu müssen (#Überholzwang): Hyperballomanie
 	4. Manie des Autofahrers, hupen zu müssen: Salpingomani
-  5. Angst des Autofahrers vor leeren Batterien: Kenaggiophobie
+	5. Angst des Autofahrers vor leeren Batterien: Kenaggiophobie
