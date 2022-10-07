@@ -29,7 +29,7 @@ http://perseus.uchicago.edu/cgi-bin/philologic/getobject.pl?c.82:6:169.LSJ
 ό φόβος (Furcht, Schrecken, Besorgnis vor einem Übel, mit dem Willen, sich diesem zu entziehen) http://www.zeno.org/Pape-1880/A/%CF%86%CF%8C%CE%B2%CE%BF%CF%82
 
 ### Die „Phobie von Autofahrern, das gut geparkte Auto nicht zu benutzen, um den guten Parkplatz nicht zu verlieren“ würde ich aus χωρίον, ἀποβάλλειν (verlieren, aufgeben) und φόβος zusammensetzen, also: Choripoballophobie.
-➪ Hyperballomanie 
+➪ Choripoballophobie
 
 ἀποβάλλειν (verlieren, aufgeben)
 http://www.zeno.org/Pape-1880/A/%E1%BC%80%CF%80%CE%BF-%CE%B2%CE%AC%CE%BB%CE%BB%CF%89
