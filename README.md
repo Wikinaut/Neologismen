@@ -59,7 +59,7 @@ Wörterbucheintrag Griechisch-Deutsch zu »κενε-αγγέω«. Wilhelm Pape: 
 http://www.zeno.org/Pape-1880/A/%CE%BA%CE%B5%CE%BD%CE%B5-%CE%B1%CE%B3%CE%B3%CE%AD%CF%89?hl=leere
 
 Quellen:
-	* H.J.R.
-	* https://www.lexilogos.com/english/greek_ancient_dictionary.htm
-	* http://www.zeno.org/Pape-1880/
-	* http://perseus.uchicago.edu/Greek.html
+* H.J.R.
+* https://www.lexilogos.com/english/greek_ancient_dictionary.htm
+* http://www.zeno.org/Pape-1880/
+* http://perseus.uchicago.edu/Greek.html
