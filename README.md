@@ -6,7 +6,7 @@
 
 Kurzversion:
 
-1. Autofahrerphobie, keinen Parkplatz am Ziel zu finden“: Udechoriophobie
+1. Autofahrerphobie, keinen Parkplatz am Ziel zu finden: Udechoriophobie
 1. Autofahrerphobie, das gut geparkte Auto nicht zu benutzen, um den guten Parkplatz nicht zu verlieren: Choripoballophobie
 1. Autofahrermanie, überholen zu müssen (#Überholzwang): Hyperballomanie
 1. Autofahrermanie, hupen zu müssen: Salpingomanie
